@@ -1,4 +1,4 @@
-# D
+# DocHub
 
 > A Vue.js project
 
